@@ -2,7 +2,7 @@
 
 - 😄 I'm from Brazil
 - 🌱 I’m currently learning Web Development
-- 🔭 I’m currently working with HTML, CSS, JavaScript and React.JS
+- 🔭 I’m currently working with HTML, CSS, JavaScript and Angular
 
 <!---GitHub Stats: https://github.com/anuraghazra/github-readme-stats--->
 <div align="center">
